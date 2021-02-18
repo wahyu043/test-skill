@@ -1,0 +1,20 @@
+a. Bahasa Golang adalah bahasa C dan Java yang dimoderinasasi
+    yang artinya bahasa go keandalannya setara bahasa C dan Java
+    namun kemudahaannya dalam penggunaannya seperti bahasa yang modern
+    dalam pembuatan aplikasi berbasis web maupun aplikasi desktop.
+b. Dalam bahasa golang atau go mempunyai struktur dasarnya, yaitu:
+    1. Deklarasi Package
+        Package pada bahasa golang / go adalah suatu cara untuk mengorganisasikan
+    file yang ada atau bisa disebut sebagai nama folder yang tersedia. Pada Golang
+    satu file dapat dijalankan ketika mempunyai package "main".
+    2. Import Library
+        Import pada bahasa Golang / go merupakan fungsi yang diproses sedemikian rupa untuk 
+    kita gunakan fungsinya. Import digunakan untuk memanggil library yang ingin kita gunakan,
+    misalnya kode library golang bisa memanggil dengan nama "fmt"
+    3. Bagian Fungsi
+         Bagian Fungsi atau diesbut method utama, struktur ini harus ada pada Golang / go 
+    dimana method tersebut di eksekusi pertama kali saat program tersebut dijalankan. Tanpa
+    method utama maka program tidak bisa dijalankan. Contoh method main() adalah "func main()".
+    4. Ekspresi
+        Ekspresi atau disebut juga statement, Ekspresi merupakan sebuah kode bagian terkecil dari fungsi
+    Kode tersbut bisa diartikan suatu kegiatan yang dilakukan. Contoh ekspresi adalah fmt.Println().
